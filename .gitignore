@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Next.js / Vercel build output
+.next/
+.vercel/
+out/
+
+# Local environment files — never commit secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# TypeScript build cache
+*.tsbuildinfo
